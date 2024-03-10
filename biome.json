@@ -1,0 +1,25 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.6.0/schema.json",
+	"formatter": {
+		"lineWidth": 120,
+		"formatWithErrors": true
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true
+		}
+	},
+	"organizeImports": {
+		"enabled": true
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single"
+		}
+	},
+	"vcs": {
+		"enabled": true,
+		"clientKind": "git"
+	}
+}
