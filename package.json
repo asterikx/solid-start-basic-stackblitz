@@ -7,7 +7,7 @@
 		"start": "vinxi start",
 		"version": "vinxi version"
 	},
-	"packageManager": "bun@1.0.30",
+	"packageManager": "pnpm@8.15.4",
 	"dependencies": {
 		"@solidjs/meta": "^0.29.3",
 		"@solidjs/router": "^0.13.0",
